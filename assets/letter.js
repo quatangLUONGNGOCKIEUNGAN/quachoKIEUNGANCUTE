@@ -15,7 +15,7 @@
 
   var fallbackTitle = "Gửi em !";
   var fallbackMessage =
-    "Hôm nay là ngày 20/10 - ngày dành riêng cho những người con gái tuyệt vời nhất. Anh chỉ muốn nói rằng: Cảm ơn em vì đã đến bên anh, mang đến cho anh niềm vui, sự bình yên và những yêu thương ngọt ngào nhất. Dù có bao nhiêu 20/10 đi nữa, anh vẫn muốn là người đầu tiên được gửi lời chúc đến em 💗";
+    "Hôm nay 20/10, anh muốn chúc em có một ngày thật vui vẻ, luôn xinh xắn và hạnh phúc nhé 💗 Anh cũng chẳng biết phải nói sao cho hay, chỉ là anh thấy mình ngày càng muốn quan tâm em nhiều hơn một chút. Anh biết hiện tại chúng ta chưa là gì của nhau, nên anh không muốn vội vàng hay khiến em khó xử. Anh chỉ muốn nói rằng anh thích em, muốn được tìm hiểu em nhiều hơn và hy vọng một ngày nào đó, anh có thể trở thành người đặc biệt với em. Còn bây giờ, anh chỉ mong em luôn vui vẻ và nếu được thì hãy cho anh cơ hội để bước gần em hơn một chút nhé. 🌷";
 
   window.showEnvelope = function () {
     if (envelopeOverlay) envelopeOverlay.classList.add("show");
